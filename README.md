@@ -1,27 +1,33 @@
-# PokedexAngular
+# Pokedex Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+Este é o meu primeiro projeto em Angular, criado com o objetivo de solidificar meus estudos no framework. A aplicação consome a API https://pokeapi.co/ e exibe informações sobre Pokemons.
 
-## Development server
+## Instalação
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. Faça o download ou clone este repositório em sua máquina local.
+2. Certifique-se de ter o Node.js instalado em sua máquina. Você pode verificar isso digitando o comando `node -v` no terminal.
+3. Abra o terminal na pasta raiz do projeto e execute o comando `npm install` para instalar as dependências do projeto.
 
-## Code scaffolding
+## Como executar
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+No terminal, navegue até a pasta raiz do projeto e execute o comando `npm start`. Isso iniciará o servidor local e a aplicação poderá ser acessada em `http://localhost:4200/`.
 
-## Build
+## Scripts
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- `ng serve`: inicia o servidor de desenvolvimento em `http://localhost:4200/`.
+- `ng build`: compila o projeto para a pasta `dist/`.
+- `ng test`: executa os testes unitários via Karma.
+- `ng lint`: executa a verificação de sintaxe TypeScript com TSLint.
+- `ng e2e`: executa testes end-to-end via Protractor.
 
-## Running unit tests
+## Tecnologias utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- AngularJS
+- RxJS
+- TypeScript
+- HTML5
+- CSS3
 
-## Running end-to-end tests
+## Licença
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
