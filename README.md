@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./pic.jpg" width="100%"/>
+</p>
+
 # Pokedex Angular
 
 Este é o meu primeiro projeto em Angular, criado com o objetivo de solidificar meus estudos no framework. A aplicação consome a API https://pokeapi.co/ e exibe informações sobre Pokemons.
