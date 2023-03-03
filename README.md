@@ -26,7 +26,7 @@ No terminal, navegue até a pasta raiz do projeto e execute o comando `npm start
 - RxJS
 - TypeScript
 - HTML5
-- CSS3
+- SaSS
 
 ## Licença
 
